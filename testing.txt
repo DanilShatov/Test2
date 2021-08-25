@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-Hellow world
-my name is Danil
-
-sjdvbjsvndj
-hey hey hey
-=======
-Hellow world
->>>>>>> 68bf253f25c9f46f33c99dd3bed1124d496ca2c5
+y first job
