@@ -1,0 +1,17 @@
+package test1;
+
+public class Main implements in1{
+
+	public static void main(String[] args) {
+	in1 in = new Main();
+	in.function();
+
+	}
+
+	@Override
+	public void privet() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
